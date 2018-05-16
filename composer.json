@@ -1,0 +1,20 @@
+{
+  "name": "buy-xanax-online/order-altace-online",
+    "description": "no prescription next day delivery ativan",
+    "homepage": "http://e-pharmacy24.com/?q=Altace",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+       
+    ],
+    "autoload": {
+        "psr-4": {
+            "xanax\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
